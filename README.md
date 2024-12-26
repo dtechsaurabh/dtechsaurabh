@@ -10,7 +10,7 @@
 
 ### 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white)](https://instagram.com/dtechsaurabh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/dtechsaurabh) 
- [![medium](https://img.shields.io/badge/medium-%230077B5.svg?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@dtechsaurabh) 
+ [![medium](https://img.shields.io/badge/medium-%ffffffff.svg?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@dtechsaurabh) 
 
 
 ### 💻 Tech Stack:
