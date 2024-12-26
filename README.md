@@ -1,43 +1,34 @@
-[![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)]
 
 
 <h1 align="center">Hi 👋, I'm Saurabh Sengarr</h1>
-<h3 align="center">Senior Android Developer | Expertise in Mobile, Tablet, Android TV & Fire TV | OTT Solutions | Freelancer & Technical Blogger | 7+ Years Experience</h3>
-<im align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dtechsaurabh&label=Profile%20views&color=0e75b6&style=flat" alt="dtechsaurabh" /> </p>
+🌱 I’m currently  working Senior Android Developer <br>📫 How to reach me saurabh.singh2501s@gmail.com<br>⚡ Main skills Java | Android | Kotlin | kotlin Multiplatform | Flutter Enthusiast | React Native Enthusiast <br>👨‍🎓 I believe in learning something new everyday.
 
-<p align="left"> <a href="https://twitter.com/dtechsaurabh" target="blank"><img src="https://img.shields.io/twitter/follow/dtechsaurabh?logo=twitter&style=for-the-badge" alt="dtechsaurabh" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, KMP**
 
-- 📝 I regularly write articles on [https://medium.com/@dtechsaurabh](https://medium.com/@dtechsaurabh)
+![](https://komarev.com/ghpvc/?username=dtechsaurabh)
 
-- 💬 Ask me about **Android**
+### 🌐 Socials:
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white)](https://instagram.com/dtechsaurabh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/dtechsaurabh) 
 
-- 📫 How to reach me **saurabh.singh2501s@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dtechsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dtechsaurabh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dtechsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dtechsaurabh" height="30" width="40" /></a>
-<a href="https://fb.com/dtechsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dtechsaurabh" height="30" width="40" /></a>
-<a href="https://instagram.com/dtechsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dtechsaurabh" height="30" width="40" /></a>
-<a href="https://medium.com/@dtechsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dtechsaurabh" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dtechsaurabh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dtechsaurabh" /></a><a href="https://ko-fi.com/dtechsaurabh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dtechsaurabh" /></a></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtechsaurabh&layout=compact&hide=html" alt="dtechsaurabh" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dtechsaurabh&show_icons=true&locale=en&layout=compact" alt="dtechsaurabh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dtechsaurabh&show_icons=true" alt="dtechsaurabh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dtechsaurabh&show_icons=true&locale=en" alt="dtechsaurabh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtechsaurabh&" alt="dtechsaurabh" /></p>
+
+<b>Primary Skillset: </b> Android, Java, Kotlin, kotlin Multiplatform <br/>
+<b>Secondary Skillset: </b> Flutter, React Native, Laravel <br/>
+<b>Other profiles:</b>
+<a href = "https://stackoverflow.com/users/11495215/dtechsaurabh" target="_blank">My StackOverflow account</a>
+
+<a href = "https://www.linkedin.com/in/dtechsaurabh/" target="_blank">You can reach out to me here</a> or have a look at some of my libraries and projects below.
