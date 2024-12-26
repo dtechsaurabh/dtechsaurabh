@@ -1,0 +1,103 @@
+Learn these as Android Engineer:
+
+📱 UI & Jetpack
+* Jetpack Compose (Modern UI toolkit)
+* Material Design Components
+* Navigation Component
+* ConstraintLayout
+* ViewBinding/DataBinding
+* Fragment
+* Lifecycle Components
+* Paging 3
+* SwipeRefreshLayout
+
+🌐 Network & API
+* Retrofit (REST client)
+* OkHttp (HTTP client)
+* Ktor (Kotlin-first HTTP client)
+* Websocket
+* gRPC
+
+💾 Data & Serialization
+* Kotlin Serialization
+* Moshi (Modern JSON library)
+* Gson (JSON parsing)
+* Protocol Buffers
+
+🖼️ Image Loading & Media
+* Coil (Kotlin-first image loading)
+* Glide (Image loading)
+* ExoPlayer (Video/Audio)
+* CameraX
+* MediaStore
+* Okio (I/O operations)
+
+⚡ Background Processing
+* Coroutines & Flow
+* WorkManager (Background tasks)
+* Background Services
+* App Startup
+* Foreground Services
+
+💽 Local Storage
+* Room (SQLite abstraction)
+* DataStore (Key-Value storage)
+* SQLDelight (SQL toolkit)
+* Realm Database
+* Store (Repository pattern)
+* SharedPreferences (Legacy)
+
+💉 Dependency Injection
+* Hilt (Recommended DI)
+* Koin (Lightweight DI)
+* Dagger 2
+* Kodein
+
+📊 Logging & Monitoring
+* Timber (Logging)
+* Napier (Multiplatform logging)
+* Crashlytics (Crash reporting)
+* LeakCanary (Memory leak detection)
+* Sentry (Error tracking)
+* Firebase Performance
+* NewRelic (Performance monitoring)
+
+🧪 Testing
+* JUnit (Unit testing)
+* Mockk (Kotlin mocking)
+* Espresso (UI testing)
+* Robolectric (Unit testing)
+* Compose UI Testing
+* Turbine (Flow testing)
+* Kotest (Testing framework)
+* Truth (Assertions)
+
+🛠️ Development Tools
+* Ktlint (Kotlin linter)
+* Detekt (Static code analysis)
+* Gradle (Build tool)
+* R8/ProGuard (Code shrinking)
+* Android Studio
+* Konsist (Architecture linting)
+
+🚀 CI/CD
+* GitHub Actions
+* CircleCI
+* Fastlane
+* Firebase App Distribution
+* Google Play Console
+
+📈 Analytics & Monitoring
+* Firebase Analytics
+* Mixpanel
+* Tealium
+* AppsFlyer
+* Google Analytics
+* Firebase Crashlytics
+
+🔒 Security
+* Biometric
+* Encrypted SharedPreferences
+* Android Keystore
+* Certificate Pinning
+* ProGuard/R8
