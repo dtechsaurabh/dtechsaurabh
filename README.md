@@ -33,3 +33,11 @@
 <a href = "https://stackoverflow.com/users/11495215/dtechsaurabh" target="_blank">My StackOverflow account</a>
 
 <a href = "https://www.linkedin.com/in/dtechsaurabh/" target="_blank">You can reach out to me here</a> or have a look at some of my libraries and projects below.
+
+# Support my work
+
+If you found this project valuable, please consider giving it a ⭐️ on GitHub. Your support keeps me motivated! If you'd like to further support my work, you can buy me a book. Thank you for your generosity!
+
+<div>
+  <a href="https://www.buymeacoffee.com/dtechsaurabh"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=dtechsaurabh&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+ </div>
