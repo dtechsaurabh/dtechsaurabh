@@ -9,11 +9,11 @@
 ![](https://komarev.com/ghpvc/?username=dtechsaurabh)
 
 ### 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white)](https://instagram.com/dtechsaurabh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/dtechsaurabh) 
-[![Medium](https://img.shields.io/badge/medium-%12100E.svg?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@dtechsaurabh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/dtechsaurabh) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=Medium&style=for-the-badge&logoColor=white)](https://medium.com/@dtechsaurabh) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%FE7A16.svg?logo=Stackoverflow&style=for-the-badge&logoColor=white)](https://stackoverflow.com/users/11495215/dtechsaurabh) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitte&style=for-the-badge&logoColor=white)](https://twitter.com/dtechsaurabh) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white)](https://instagram.com/dtechsaurabh) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&style=for-the-badge&logoColor=white)](https://www.youtube.com/@dtechsaurabh2059) 
 
 
