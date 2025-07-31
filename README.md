@@ -1,6 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Saurabh Sengarr</h1>
+<h1 align="center">Hi 👋, I'm Saurabh Sengarr</h1> 
+<img src="https://raw.githubusercontent.com/dtechsaurabh/dtechsaurabh/refs/heads/main/dtechsaurabh_linkedin_banner_final_v4%20_f.png" width="1584" height="396" alt="Description of your image">
 
 🌱 I’m currently  working Senior Android Developer <br>📫 How to reach me saurabh.singh2501s@gmail.com<br>⚡ Main skills Java | Android | Kotlin | kotlin Multiplatform | Flutter Enthusiast | React Native Enthusiast <br>👨‍🎓 I believe in learning something new everyday.
 
