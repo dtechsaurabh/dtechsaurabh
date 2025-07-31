@@ -4,7 +4,9 @@
 
 🌱 I’m currently  working Senior Android Developer <br>📫 How to reach me saurabh.singh2501s@gmail.com<br>⚡ Main skills Java | Android | Kotlin | kotlin Multiplatform | Flutter Enthusiast | React Native Enthusiast <br>👨‍🎓 I believe in learning something new everyday.
 
+Native Android & Hybrid Cross-Platform Specialist
 
+📱 Mobile · 📦 Tablets · 📺 Android TV · 🔥 Fire TV ·  iOS
 
 ![](https://komarev.com/ghpvc/?username=dtechsaurabh)
 
